@@ -2,7 +2,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan("org.studyeasy")
+@ComponentScan("org.studyeasy") // scan the library /packages org.studyeasy.
 public class AppConfig {
 
 }
